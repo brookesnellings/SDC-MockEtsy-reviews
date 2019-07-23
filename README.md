@@ -8,6 +8,8 @@
   - https://github.com/regretsy-hratx42/image-carousel
   - https://github.com/regretsy-hratx42/cnebs-reviews
   - https://github.com/regretsy-hratx42/item-details
+  
+  - https://github.com/sdc-reregretsy/reregretsy-reviews
 
 ## Table of Contents
 
