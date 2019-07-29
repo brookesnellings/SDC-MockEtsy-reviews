@@ -28,3 +28,7 @@ coverage
 
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
+
+# Faker Data #
+data.tar.gz
+output-full.csv
