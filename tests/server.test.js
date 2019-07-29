@@ -23,5 +23,5 @@ test('Reviews GET route sends back an empty response', async done => {
 test('Reviews POST route sends back a 404', async done => {
   request(app)
     .post('/reviews')
-    .expect(400, done);
+    .expect(404, done);
 });
