@@ -1,16 +1,16 @@
-# RegrEtsy Reviews
+# MockEtsy Reviews
 
-> Implement reviews microservice for an Etsy clone. Will be packaged with other microservices to approximate a functional item detail page.
+> Scale and deploy reviews microservice to support (a minimum of) 100 requests per second on EC2 using a t2.micro instance. 
+
+> Will be packaged with other microservices to approximate a functional Etsy item detail page.
 
 ## Related Projects
 
-  - https://github.com/regretsy-hratx42/header-and-search
-  - https://github.com/regretsy-hratx42/image-carousel
-  - https://github.com/regretsy-hratx42/cnebs-reviews
-  - https://github.com/regretsy-hratx42/item-details
+  - https://github.com/mock-etsy/header-and-search
+  - https://github.com/mock-etsy/image-carousel
+  - https://github.com/mock-etsy/cnebs-reviews
+  - https://github.com/mock-etsy/item-details
   
-  - https://github.com/sdc-reregretsy/reregretsy-reviews
-
 ## Table of Contents
 
 1. [Usage](#Usage)
